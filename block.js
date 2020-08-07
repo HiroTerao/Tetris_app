@@ -1,5 +1,5 @@
 //落ちるスピード
-const GAME_SPEED = 300;
+const GAME_SPEED = 500;
 
 //⓪フィールドサイズ
 const FIELD_COL = 10;
@@ -260,7 +260,7 @@ document.onkeydown = function(e) {
     case 37: //左
       if(checkMove(-1, 0)) tetro_x--;
         break;
-    case 38: //上
+    case 68: //上
       if(checkMove(0, -1)) tetro_y--;
         break;
     case 39: //右
