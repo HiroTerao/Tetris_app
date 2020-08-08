@@ -1,7 +1,7 @@
 ## 📲アプリ名:テトリス
 #### 🌐URL  : https://tetris-27348.herokuapp.com/
-#### 📱画像  : [プレイ](https://gyazo.com/42c1a2f705cb906197fac04c74bcf4da)
-#### 📱画像  : [ゲームオーバー](https://gyazo.com/42f83b61536e6841e3be8f50ab145d3e)
+#### 📱プレイ動画  : [![Image from Gyazo](https://i.gyazo.com/e0684ce81b9109d5f1c245a143e61ecb.gif)](https://gyazo.com/e0684ce81b9109d5f1c245a143e61ecb)
+
 
 ## 🤔💭なぜ作成したのか
 #### ①ゲームが好きなのでゲームアプリを開発したいと思いました。
